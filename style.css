@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+}
+
+.img-nav {
+    width: 60px;
+}
+
+.card-img-top {
+    width: 200px;
+}
+
+.img-off {
+    /* width: 800px;
+    
+    object-fit: cover; */
+    background-image: url(assets/costiera\ amalfitana.jpg);
+    background-position: center;
+    background-size: cont;
+    height: 300px;
+}
+
